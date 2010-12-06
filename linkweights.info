@@ -1,0 +1,4 @@
+name = Link Weights
+project = Link Weights
+core = 6.x
+description = Place weights on node links
